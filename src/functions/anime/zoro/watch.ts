@@ -1,0 +1,11 @@
+import axios from "axios";
+
+export const zoro_Watch = async (id: string, endpoint: string) => {
+    try {
+        const response = await axios.get(`${endpoint}/anime/zoro/watch/?episodeId=${id}`);
+        return response.data;
+    } catch (error) {
+        console.error("[Consumet Anime Watch Link Fetch Error (Zoro)]: ", error);
+        return null
+    }
+}

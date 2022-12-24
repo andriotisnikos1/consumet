@@ -1,0 +1,47 @@
+{
+  "id": "cl6ogc3hf00blaclu0x8m5yww",
+  "title": "One Piece Film: Z",
+  "anilistId": 12859,
+  "malId": 12859,
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12859-uQFENDPzMWz6.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12859-XjlBW6o2YwUb.jpg",
+  "season": "FALL",
+  "releaseDate": 2012,
+  "duration": 107,
+  "popularity": 36298,
+  "description": "Said to be comparable to the Ancient Weapons of old, the Marines’ trump card, the “Dyna Stones,” have suddenly been stolen by a group of renegade vigilantes. The terrifyingly powerful man responsible, former Marine Admiral “Z”, now stands in the path of Luffy and his Straw Hat Pirates. Can the Straw Hats defeat “Z” and his crew, or will the New World meet its end at the hands of this mad man? <br>\n<br>\n(Source: Funimation)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "rating": 79,
+  "status": "FINISHED",
+  "synonyms": [
+    "One Piece Film 12: Z",
+    "海贼王剧场版Z",
+    "One Piece Gold - Il film"
+  ],
+  "mappings": {
+    "mal": 12859,
+    "imdb": "tt2375379",
+    "anidb": 8940,
+    "kitsu": 6827,
+    "anilist": 12859,
+    "thetvdb": 81797,
+    "anisearch": 7573,
+    "livechart": 3830,
+    "notify.moe": "yqCHpFimg",
+    "themoviedb": 176983,
+    "anime-planet": "one-piece-film-z"
+  },
+  "type": "MOVIE",
+  "episodes": [
+    {
+      "id": "cl6q7lxgv1145672rtggz2oaiar",
+      "number": 1,
+      "title": "Full"
+    }
+  ]
+}

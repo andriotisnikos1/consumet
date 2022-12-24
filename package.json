@@ -1,0 +1,29 @@
+{
+  "name": "consumet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriotisnikos1/consumet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriotisnikos1/consumet/issues"
+  },
+  "homepage": "https://github.com/andriotisnikos1/consumet#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.17",
+    "ts-node": "^10.9.1"
+  }
+}
